@@ -35,8 +35,6 @@ pnpm-lock.yaml
 onnxruntime-win-x64*/
 
 # ignore environment variables
-.env
-.env.local
 
 # JavaScript stuff
 node_modules/
@@ -70,3 +68,4 @@ screenpipe-app-tauri/src-tauri/.next/
 # Claude Code
 .claude/worktrees/
 .claude/*.local* # local changes are specific to the individual developer, let's not check them in for everyone.
+config.bat
