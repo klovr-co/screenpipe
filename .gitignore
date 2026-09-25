@@ -137,4 +137,4 @@ screenpipe-app-tauri/src-tauri/.next/
 
 .claude/*.local* # local changes are specific to the individual developer, let's not check them in for everyone.
 
-config.bat
+
